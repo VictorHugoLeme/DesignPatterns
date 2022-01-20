@@ -18,3 +18,13 @@ public class User {
 
     }
 }
+
+/*
+É uma maneira orientada a objetos de trabalhar com variáveis globais
+o que caracteriza design mal feito.
+
+Singleton possui Forte Acoplamento entre classes e o correto deveria
+ser fraco acoplamento.
+
+Por causa do forte acoplamento, singletons dificultam testes unitários.
+ */
