@@ -1,4 +1,4 @@
-package Builder;
+package builder;
 
 public class Furniture {
     private final int id;
