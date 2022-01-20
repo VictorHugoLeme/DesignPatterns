@@ -1,4 +1,4 @@
-package factoryMethod;
+package creational.factoryMethod;
 
 public class TwinEngine implements Aircraft {
 

@@ -1,4 +1,4 @@
-package factoryMethod;
+package creational.factoryMethod;
 
 public class Sailplane implements Aircraft {
 

@@ -1,4 +1,4 @@
-package factoryMethod;
+package creational.factoryMethod;
 
 public class AircraftFactory {
     public static Aircraft createAircraft(int numberOfEngines) {

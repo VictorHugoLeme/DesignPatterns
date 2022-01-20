@@ -1,4 +1,4 @@
-package singleton;
+package creational.singleton;
 
 public class User {
     public static void main(String[] args) {
