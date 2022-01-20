@@ -1,6 +1,7 @@
 package singleton;
 
 import java.util.ArrayList;
+import java.util.List;
 
 public final class Logger {
 
@@ -19,5 +20,8 @@ public final class Logger {
     }
     public int printLogCount() {
         return logs.size();
+    }
+    public List<String> getLogs() {
+        return logs;
     }
 }

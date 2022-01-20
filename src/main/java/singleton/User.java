@@ -14,5 +14,7 @@ public class User {
         System.out.print("Log count: ");
         System.out.println(logger2.printLogCount());
 
+        System.out.println(logger1.getLogs());
+
     }
 }
